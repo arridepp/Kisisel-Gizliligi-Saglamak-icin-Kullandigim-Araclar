@@ -45,4 +45,4 @@
 ![Slide43](https://user-images.githubusercontent.com/74824751/162594984-cfbb1d65-2ff7-4eba-9399-f3449f5844e1.JPG)
 ![Slide44](https://user-images.githubusercontent.com/74824751/162594985-325c3f50-0c59-44b4-b602-1c4c27ca9f5d.JPG)
 ![Slide45](https://user-images.githubusercontent.com/74824751/162594986-9bdb5bca-408f-4ce9-879e-34e5be26560a.JPG)
-![Slide46](https://user-images.githubusercontent.com/74824751/162594987-f3d194eb-2bf5-4c75-a499-86aa5f4bd6d7.JPG)
+![Slide46](https://user-images.githubusercontent.com/74824751/162595287-9d31ba72-246c-43ff-9831-7802cc213f53.jpg)
