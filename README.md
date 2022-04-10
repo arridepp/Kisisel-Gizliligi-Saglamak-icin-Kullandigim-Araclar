@@ -1,5 +1,4 @@
 # Kişisel Gizliliği Sağlamak için Kullandığım Araçlar - Book
-
 ![logo](https://user-images.githubusercontent.com/74824751/162589380-02748873-dcda-4a1a-8a0c-bc12a8bd03e9.jpg)
 ![Slide2](https://user-images.githubusercontent.com/74824751/162594926-6070ae88-b3cb-4d7b-8649-b3e29e1ef549.JPG)
 ![Slide3](https://user-images.githubusercontent.com/74824751/162594927-9c2941f3-b3f9-4fff-84e2-1e44dca70891.JPG)
