@@ -1,4 +1,4 @@
-# Kişisel Gizliliği Sağlamak için Kullandığım Araçlar - Book
+# Kişisel Gizliliği Sağlamak için Kullandığım Araçlar(Tools I Use to Maintain Personal Privacy) - Book
 
 ![Slide1](https://user-images.githubusercontent.com/74824751/162828739-b3fc39d2-1f4d-40c1-a0fd-0ee808a6e642.JPG)
 ![Slide2](https://user-images.githubusercontent.com/74824751/162828751-39f88272-eb7c-45e0-b5de-76c75f5cdf74.JPG)
